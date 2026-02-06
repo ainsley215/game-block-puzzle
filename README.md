@@ -1,16 +1,16 @@
-# puzzle_balok
+# 🧩 PUZZLE Balok
 
-A new Flutter project.
+Game puzzle balok klasik dengan estetika warna pastel yang menenangkan. Dibangun menggunakan **Flutter** untuk pengalaman bermain yang halus dan responsif.
 
-## Getting Started
+## 🌟 Fitur Utama
+* **Warna Pastel Estetik:** Tampilan visual yang nyaman di mata.
+* **Sistem High Score:** Skor tertinggi disimpan secara otomatis menggunakan `shared_preferences`.
+* **Beragam Bentuk Balok:** Termasuk balok spesial 3x3 dan titik tunggal.
+* **Game Over Logic:** Deteksi otomatis saat tidak ada ruang lagi untuk balok yang tersedia.
+* **Clean Code:** Pemisahan logika antara menu utama dan papan permainan.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Gameplay
+<p align="center">
+  <img src="Assets/screenshots/main_menu.png" width="300" alt="Gameplay Screenshot">
+  <img src="Assets/screenshots/gameplay.png" width="300" alt="Gameplay Screenshot">
+</p>
